@@ -1,0 +1,42 @@
+
+
+header h1 {
+    text-align: center;
+    color: #00796b;
+    margin-bottom: 20px;
+}
+
+.service-block {
+    background-color: #b2ebf2;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.service-block h2 {
+    margin-top: 0;
+    color: #00695c;
+}
+
+.service-block p {
+    margin: 5px 0;
+    color: #004d40;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.time {
+    font-style: italic;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #004d40;
+}
+
+footer h2 {
+    margin-bottom: 10px;
+}
